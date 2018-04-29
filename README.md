@@ -51,8 +51,8 @@ SOFTWARE.
 
 
 <img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg" width="300" align="left">
-<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012712_TagNet.jpg" width="300" align="right">
+<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012712_TagNet.jpg" width="300" align="left">
 <img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012658_TagNet.jpg" width="300" align="left">
-<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-015156_TagNet.jpg" width="300" align="right">
+<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-015156_TagNet.jpg" width="300" align="left">
 
 
