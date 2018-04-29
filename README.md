@@ -1,4 +1,4 @@
-# EasyInstagramPrivateAPIExample
+# InstagramPrivateAPI-Android.Implementation
 
 Description: This is a simple implementation of the Instagram Private API for Android that gets and applies most of the accessible information of a user. Use this as a backbone as you please (Please check Terms of Use).
 
