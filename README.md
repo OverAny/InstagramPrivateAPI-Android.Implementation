@@ -17,3 +17,4 @@ This application displays and implements:
 # Preview:
 
 ![alt text](https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg)
+<img src="https://github.com/favicon.ico" width="48">
