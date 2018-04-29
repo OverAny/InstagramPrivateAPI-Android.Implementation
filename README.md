@@ -25,7 +25,7 @@ https://github.com/charlieAndroidDev/Instagram4Android
 
 # Terms Of Use:
 
-Copyright (c) 2017 RonArelStudet
+Copyright (c) 2018 RonArelStudet
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
