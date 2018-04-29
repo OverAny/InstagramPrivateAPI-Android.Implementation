@@ -7,7 +7,7 @@ This application displays and implements:
 - Your Profile Image
 - Your Fullname
 - Your Username
-- Your Recent Media"
+- Your Recent Media
 - Your Number of Followers and Followings
 - Your Actual Followers and Followings (Click on the items to:)
    + Their Profile Picture
