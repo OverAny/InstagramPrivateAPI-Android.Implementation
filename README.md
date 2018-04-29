@@ -14,14 +14,6 @@ This application displays and implements:
    + Their Username
    + Their Recent Media
    
-# Preview:
-
-
-<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg" width="300" align="left">
-<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012712_TagNet.jpg" width="300" align="right">
-<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012658_TagNet.jpg" width="300" align="left">
-<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-015156_TagNet.jpg" width="300" align="right">
-
 # Fair Use:
 
 Do NOT use this to spam anyone at all.
@@ -54,5 +46,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Preview:
+
+
+<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg" width="300" align="left">
+<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012712_TagNet.jpg" width="300" align="right">
+<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012658_TagNet.jpg" width="300" align="left">
+<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-015156_TagNet.jpg" width="300" align="right">
 
 
