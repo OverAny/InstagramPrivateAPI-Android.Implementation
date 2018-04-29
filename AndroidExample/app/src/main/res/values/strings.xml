@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TagNet</string>
+    <string name="app_name">Example</string>
     <string name="textnull">null</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
