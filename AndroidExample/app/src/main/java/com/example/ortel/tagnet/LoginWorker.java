@@ -113,6 +113,7 @@ public class LoginWorker extends AsyncTask<String, String, NewVars> {
 
             //Get first media item
             String urls1 = "";
+            if (result41.getItems() != null)
             if(result41.getItems().size() > 0) {
                 //Check if media is Image
                 if (result41.getItems().get(0).getImage_versions2() != null) {

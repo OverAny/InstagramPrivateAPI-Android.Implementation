@@ -72,10 +72,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         tabLayout.addOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(mViewPager));
 
         //Go back to main screen
-        ImageView fab123 = findViewById(R.id.fab123);
-        fab123.setOnClickListener(new View.OnClickListener() {
+        ImageView fab12 = findViewById(R.id.fab123);
+        fab12.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                fab123.setVisibility(View.VISIBLE);
+                fabreplace.setVisibility(View.GONE);
                 startActivity(new Intent(MainActivity.this, Tab1.class));
 
             }
