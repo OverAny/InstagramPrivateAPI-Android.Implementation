@@ -1,4 +1,4 @@
-# EasyInstagramPrivateAPIExample
+https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg# EasyInstagramPrivateAPIExample
 
 Description: This is a simple implementaion of the Instagram Private API. Use this as a backbone as you please. 
 
@@ -16,4 +16,4 @@ This application displays and implements:
    
 # Preview:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg)
