@@ -1,0 +1,211 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:layout_alignParentTop="true"
+    android:background="@drawable/whit_background"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.ortel.tagnet.MainActivity">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <!-- omitted for brevity -->
+    <LinearLayout
+        android:id="@+id/main_content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <SearchView
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:fitsSystemWindows="true"
+            android:text="" />
+
+        <View
+            android:id="@+id/test1"
+            android:layout_width="match_parent"
+            android:layout_height=".5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="#888888" />
+        <!--<com.example.ortel.tagnet.MaxHeightScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:maxHeight="300dp">-->
+
+        <ListView
+            android:id="@+id/lvRelationShip"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:fitsSystemWindows="true">
+
+
+        </ListView>
+
+        <View
+            android:id="@+id/test2"
+            android:layout_width="match_parent"
+            android:layout_height=".5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="#888888"
+            android:fitsSystemWindows="true"
+
+            android:visibility="gone" />
+    </LinearLayout>
+    <!--</com.example.ortel.tagnet.MaxHeightScrollView>-->
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    <LinearLayout
+        android:id="@+id/my_view"
+        android:background="#FFF"
+        android:visibility="visible"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="1dp"
+        >
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="150dp"
+            android:id="@+id/ImageProfile"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"/>
+        <TextView
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:textSize="16dp"
+            android:id="@+id/Username"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:text="username"
+            android:layout_height="wrap_content" />
+
+        <GridLayout
+            android:layout_width="330dp"
+            android:layout_height="330dp"
+            android:layout_gravity="center"
+            android:columnCount="3"
+            android:rowCount="3">
+            <ImageView
+                android:layout_width="110dp"
+                android:id="@+id/onei"
+                android:layout_height="110dp"
+>
+            </ImageView>
+            <ImageView
+                android:layout_width="110dp"
+                android:id="@+id/twoi"
+                android:layout_height="110dp"
+>
+            </ImageView>
+            <ImageView
+                android:id="@+id/threei"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+>
+            </ImageView>
+            <ImageView
+                android:id="@+id/fouri"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+>
+            </ImageView>
+            <ImageView
+                android:id="@+id/fivei"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+>
+            </ImageView>
+            <ImageView
+                android:id="@+id/sixi"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+>
+            </ImageView>
+            <ImageView
+                android:id="@+id/seveni"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+>
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/eighti"
+                android:layout_width="110dp"
+                android:layout_height="110dp"></ImageView>
+
+            <ImageView
+                android:id="@+id/ninei"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+>
+            </ImageView>
+
+
+
+        </GridLayout>
+
+    </LinearLayout>
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/fabbs"
+            android:layout_gravity="left|bottom"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="30dp"
+            app:srcCompat="@drawable/ic_remove_black_24dp"
+            android:backgroundTint="#FFF"/>
+        <ProgressBar
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:visibility="invisible"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="100dp"
+            android:id="@+id/Ind"/>
+        <LinearLayout
+            android:layout_height="320dp"
+            android:id="@+id/NoMedia"
+            android:visibility="invisible"
+            android:layout_marginTop="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="45dp"
+
+            android:layout_gravity="center"
+            android:layout_width="240dp"
+            android:orientation="vertical">
+        <ImageView
+            android:layout_marginTop="30dp"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+            android:layout_gravity="center"
+            android:backgroundTint="@android:color/darker_gray"
+            android:background="@drawable/ic_sentiment_neutral_black_24dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="No Recent Media"
+            android:textColor="@color/black"/>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

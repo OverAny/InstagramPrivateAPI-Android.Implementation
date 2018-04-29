@@ -1,0 +1,5 @@
+<root>
+    <item name='dev.niekirk.com.instagram4android.requests.InstagramDirectShareRequest'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
