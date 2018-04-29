@@ -17,4 +17,4 @@ This application displays and implements:
 # Preview:
 
 
-<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg" width="200>
+<img src="https://github.com/RonArelStudent/EasyInstagramPrivateAPIExample/blob/master/SmartSelect_20180429-012602_TagNet.jpg" width="200">
