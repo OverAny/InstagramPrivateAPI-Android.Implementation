@@ -1,4 +1,4 @@
-# EasyInstagramPrivateAPIExample
+# InstagramPrivateAPI-Android.Implementation
 
 Description: This is a simple implementation of the Instagram Private API for Android that gets and applies most of the accessible information of a user. Use this as a backbone as you please (Please check Terms of Use).
 
@@ -25,7 +25,7 @@ https://github.com/charlieAndroidDev/Instagram4Android
 
 # Terms Of Use:
 
-Copyright (c) 2018 RonArelStudet
+Copyright (c) 2018 RonArelStudent
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -46,6 +46,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Debugging:
+
+1. Make sure you try to Rebuild the project before anything
+2. Add in Issue to the Git Repository!
 
 # Preview:
 
